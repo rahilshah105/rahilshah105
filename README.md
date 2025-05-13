@@ -1,6 +1,10 @@
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Rahil+Shah!;" />
+  <img
+    src="https://readme-typing-svg.herokuapp.com?font=Righteous&size=35&center=true&multiline=true&pause=1000&repeat=true&width=500&height=70&lines=Hi+There!+👋,I'm+Rahil+Shah!"
+    alt="Typing SVG — Hi There! 👋 I'm Rahil Shah!"
+  />
 </h1>
+
 
 <h3 align="center">A Full-Stack Developer from Orlando</h3>
 
@@ -35,13 +39,3 @@
 
 <hr/>
 
-<!-- Cool additions -->
-<div align="center">
-  <!-- GitHub Stats -->
-  <img src="https://github-readme-stats.vercel.app/api?username=salesp07&show_icons=true&theme=radical" alt="Rahils's GitHub Stats" />
-</div>
-
-<div align="center">
-  <!-- Visitor Badge -->
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=salesp07.salesp07" alt="Visitor Badge" />
-</div>
