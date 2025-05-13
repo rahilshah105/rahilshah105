@@ -10,7 +10,7 @@
 
 <div align="center">
  
- 🔭 I’m currently working on <a href="http://thetruvestor.com">
+ 🔭 I’m currently working on  <a href="https://thetruvestor.com" target="_blank">
  
  🌱 I’m currently studying CS and Business @ **University Of Michigan**
 
