@@ -11,7 +11,7 @@
 <br/>
 
 <div align="center">
-  🔭 I’m currently working on <a href="https://thetruvestor.com" target="_blank" rel="noopener noreferrer">TheTruvestor</a><br/>
+  🔭 I’m currently working on <a href="https://thetruvestor.com" target="_blank" rel="noopener noreferrer">Truvestor</a><br/>
   🌱 I’m currently studying CS and Business @ <strong>University Of Michigan</strong><br/>
 <br/>
 </div>
