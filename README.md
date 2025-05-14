@@ -1,6 +1,6 @@
 <h1 align="center">
   <img
-    src="https://readme-typing-svg.herokuapp.com?font=Righteous&size=35&center=true&multiline=true&pause=1000&repeat=true&width=500&height=70&lines=Hi+There!+👋,I'm+Rahil+Shah!"
+    src="https://readme-typing-svg.herokuapp.com?font=Righteous&size=35&center=true&multiline=true&pause=1000&repeat=true&width=500&height=70&lines=Hi+There!+👋, I'm+Rahil+Shah!"
     alt="Typing SVG — Hi There! 👋 I'm Rahil Shah!"
   />
 </h1>
